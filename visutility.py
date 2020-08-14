@@ -3,6 +3,8 @@
 Created on Thu Jul 30 10:54:14 2020
 
 @author: CCCam
+
+Contains funciton to plot prediction error chart that will be used in jupyter notebook
 """
 import matplotlib.pyplot as plt
 import seaborn as sns
