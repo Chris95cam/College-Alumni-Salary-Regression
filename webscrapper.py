@@ -1,3 +1,7 @@
+'''
+Webscraper used to collect data from forbes.com, and save it to a csv file to be used in jupyter notebook.
+'''
+
 #import necessary packages
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
