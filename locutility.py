@@ -3,6 +3,8 @@
 Created on Thu Aug 13 17:15:37 2020
 
 @author: CCCam
+
+Function to fetch location data from dataframe containing city and state column. Used in jupyter notebbok.
 """
 
 from geopy.geocoders import Nominatim
