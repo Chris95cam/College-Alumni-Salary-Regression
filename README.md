@@ -1,4 +1,4 @@
-# College Alumni SalaryRegression Project
+# College Alumni Salary Regression
 
 ## Summary
 This repository contains the files for my college alumni salary regression project. In this project,
