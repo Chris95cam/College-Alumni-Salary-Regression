@@ -4,4 +4,4 @@ I examine Forbes Magazine's 2019 United States college rankings, and use machine
 the median alumni salary for each school.
 
 # Contents
-[College Alumni Salary Regression.ipynb](https://github.com/Chris95cam/College-Alumni-Salary-Regression-Project/blob/master/College%20Alumni%20Salary%20Regression.ipynb)
+ - [College Alumni Salary Regression.ipynb](https://github.com/Chris95cam/College-Alumni-Salary-Regression-Project/blob/master/College%20Alumni%20Salary%20Regression.ipynb): Python notebook containg the data processing, data exploration, model building. This is the bulk of the project.
