@@ -4,5 +4,4 @@ I examine Forbes Magazine's 2019 United States college rankings, and use machine
 the median alumni salary for each school.
 
 # Contents
-
-
+[a link](https://github.com/Chris95cam/College-Alumni-Salary-Regression-Project/edit/master/README.md)
