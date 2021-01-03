@@ -17,7 +17,7 @@ the median alumni salary for each school.
 - [webscrapper.py](https://github.com/Chris95cam/College-Alumni-Salary-Regression-Project/blob/master/webscrapper.py): Webscraper I built using BeautifulSoup to extract the extract the needed information from forbes.com.
 
 ## Acknowledgements 
-- [America's Top Colleges 2019 (Data Source)](https://www.forbes.com/top-colleges/#6010771e1987)
-- [CoderzColumn: Cartopy - Basic Maps [Scatter Map, Bubble Map & Connection Map] (Helped to create Cartopy map)](https://coderzcolumn.com/tutorials/data-science/cartopy-basic-maps-scatter-map-bubble-map-and-connection-map)
-- [Visualising Top Features in Linear SVM with Scikit Learn and Matplotlib (Used to create SVR feature importance chart)](https://medium.com/@aneesha/visualising-top-features-in-linear-svm-with-scikit-learn-and-matplotlib-3454ab18a14d)
-- [Filling the missing data using regression in python (helped with imputing test scores)](http://www.statisticsandprobability.com/Statistics/filling_missing_data)
+- [America's Top Colleges 2019](https://www.forbes.com/top-colleges/#6010771e1987) - Data source for the project
+- [CoderzColumn: Cartopy - Basic Maps [Scatter Map, Bubble Map & Connection Map](https://coderzcolumn.com/tutorials/data-science/cartopy-basic-maps-scatter-map-bubble-map-and-connection-map) - Helped to create Cartopy map
+- [Visualising Top Features in Linear SVM with Scikit Learn and Matplotlib](https://medium.com/@aneesha/visualising-top-features-in-linear-svm-with-scikit-learn-and-matplotlib-3454ab18a14d) - Used to create SVR feature importance chart
+- [Filling the missing data using regression in python](http://www.statisticsandprobability.com/Statistics/filling_missing_data) - Helped with method I used to impute missing test scores
